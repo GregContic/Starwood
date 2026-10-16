@@ -1,0 +1,28 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1800 1000" role="img" aria-labelledby="title desc">
+  <title id="title">Baguio pines concept illustration</title>
+  <desc id="desc">An original, stylized illustration of pine-covered hills and morning light. This is not a photograph of Starwood Hotel.</desc>
+  <defs>
+    <linearGradient id="sky" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0" stop-color="#c8d5c3"/>
+      <stop offset=".55" stop-color="#e2d6b8"/>
+      <stop offset="1" stop-color="#c27d58"/>
+    </linearGradient>
+    <linearGradient id="hill" x1="0" y1="0" x2="0" y2="1">
+      <stop stop-color="#557361"/>
+      <stop offset="1" stop-color="#203f35"/>
+    </linearGradient>
+    <pattern id="grain" width="80" height="80" patternUnits="userSpaceOnUse">
+      <circle cx="8" cy="13" r="1.1" fill="#fff" opacity=".17"/>
+      <circle cx="57" cy="39" r=".8" fill="#263e34" opacity=".12"/>
+      <circle cx="31" cy="70" r=".8" fill="#fff" opacity=".13"/>
+    </pattern>
+  </defs>
+  <path fill="url(#sky)" d="M0 0h1800v1000H0z"/>
+  <circle cx="1360" cy="220" r="104" fill="#f2dfb4" opacity=".84"/>
+  <path fill="#e8dfca" opacity=".36" d="M0 480 290 264l214 196 253-263 321 265 281-252 441 269v260H0z"/>
+  <path fill="#8b9c83" d="m0 531 263-181 202 169 296-232 280 208 237-185 522 248v442H0z"/>
+  <path fill="url(#hill)" d="m0 659 187-191 73 109 88-187 101 166 98-127 89 137 148-253 117 202 85-151 93 117 141-238 117 221 98-116 82 135 83-43v499H0z"/>
+  <path fill="#24463b" d="m0 772 138-145 70 101 93-202 113 194 81-119 101 140 109-186 103 157 92-113 91 143 121-210 123 206 96-139 102 142 67-75v334H0z"/>
+  <path fill="#18382f" d="m0 880 111-131 87 122 128-195 101 200 88-107 103 124 116-177 95 156 91-120 113 149 102-185 127 194 86-104 96 102 75-72v164H0z"/>
+  <path fill="url(#grain)" d="M0 0h1800v1000H0z"/>
+</svg>
